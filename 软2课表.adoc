@@ -1,0 +1,121 @@
+:table-caption!:
+
+.软二课表会议版
+[cols="2,1,6,6,6,6,6"]
+|===
+7+^h|2021-2022-2 {nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp} 2021级软件工程2班课表 {nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp} 2021-SE  +
+Curriculum schedule for Software Engineering Class2（Stage 1）
+
+2+^|节次 ^|星期一Monday ^|星期二Tuesday ^|星期三Wednesday ^|星期四thursday ^|星期五Firday
+.2+^.^s|上午 +
+morning
+^.^|1-2
+.^|高等数学 4/9-16周/诸葛昌靖/90
+
+https://meeting.tencent.com/dm/mOTWyE6TF9AY[腾讯会议号：250-801-509 +
+会议密码：1212]
+
+.^a|_会议号不固定_ 
+
+* 学术英语-4写作/1-16周/Bobbie Bannerman/15
+* 学术英语-4写作/1-16周/JASCHINSKI Daniel Lucian/15
+
+.^|高等数学 4/9-16周/诸葛昌靖/90
+
+https://meeting.tencent.com/dm/mOTWyE6TF9AY[腾讯会议号：250-801-509 +
+会议密码：1212]
+
+.^|大学物理 1/1-16周/刘波扬/90
+
+腾讯会议号：751-187-3242 +
+密码: 3557
+
+.^|高等数学 4/9-16周/诸葛昌靖/90 +
+https://meeting.tencent.com/dm/mOTWyE6TF9AY[腾讯会议号：250-801-509 +
+会议密码：1212]
+
+
+^.^|3-4
+.^a|
+* 学术英语-3阅读/1-15周(单)/高沐阳/30
+* https://meeting.tencent.com/p/7730964686[学术英语-2听力/2-16周(双)/赵乾坤/30]
+
+.^|大学物理 1/1-16周/刘波扬/90
+
+腾讯会议号：751-187-3242 +
+密码: 3557
+
+.^|形势与政策 2/9-12周/汤希
+.^|学术英语-3阅读/1-16周/高沐阳/30
+
+.^a|_会议号不固定_ 
+
+* 学术英语-4写作/1-16周/Bobbie Bannerman/15
+* 学术英语-4写作/1-16周/JASCHINSKI Daniel Lucian/15
+
+.2+^.^s|下午 +
+Afternoon
+
+^.^|5-6
+
+.^|习近平新时代中国特色社会主义思想概论/1-16周/ 李东松,聂祚仁/90
+
+https://meeting.tencent.com/dm/1YbC53Ny0mvA[腾讯会议号：516-9356-2177]
+|||
+.^|★ COMP1003J Introduction to Software (B) 软件工程导论/week1-15/Mooney Catherine Louise
+
+周五无会议
+
+
+^.^|7-8
+|
+.^| live-COMP1005J Intro to Prog Construction 2 程序设计概论2/week 2-15/Mc Loughlin Henry Bernard/90
+
+腾讯会议号：816-0652-0081 (最近两周(10,11周)相同)
+
+.^|https://meeting.tencent.com/p/7730964686[学术英语-2听力/2-16周(双)/赵乾坤/30]
+
+.^| 体育
+|
+
+
+
+.2+^.^s|晚上 +
+Night
+
+^.^|9-10
+
+.^|★ ARCH1001J Irl Landscape Heritage & Culture 爱尔兰文化/week 1-4,6-9/Kelly Amanda Marina/150
+
+.^|★ ARCH1001J Irl Landscape Heritage & Culture 爱尔兰文化/week 1-4,6-9/Kelly Amanda Marina/150
+
+|
+
+.^|★ live-COMP1003J Introduction to Software (B) 软件工程导论/week2-15/Mooney Catherine Louise
+
+https://ucd-ie.zoom.us/j/67997099471?pwd=TlFKRytUaUFuUTR3eHdIRUFTTGVRUT09[Meeting ID: 679 9709 9471 +
+Passcode: 091507]
+
+|
+
+
+^.^|11-12
+
+.^| COMP1005J Intro to Prog Construction 2 程序设计概论2/week 1-15/ Mc Loughlin Henry Bernard
+
+周一无会议
+
+| 
+
+.^|Live-ARCH1001J Irl Landscape Heritage & Culture 爱尔兰文化/week 1-15/Kelly Amanda Marina
+
+https://ucd-ie.zoom.us/j/62910544331?pwd=WWt6cXZxR0k3ZnNpbnE5dlJsckRtQT09[Meeting ID: 629 1054 4331 +
+Passcode: 508542]
+||
+
+7+|备注：标“★”时间段学生可用于自主学习，若任课教师有具体安排，请听从任课教师指示。+
+绿色背景为线上直播课，TB:Teaching Building.
+
+|===
+
+
